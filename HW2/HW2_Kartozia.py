@@ -1,5 +1,6 @@
 #Language Detection, Kartozia
 import wikipedia
+import re
 ##nl_file = open('nl_ngram.txt', 'r', encoding='utf-8')
 ##bg_file = open('bg_ngram.txt', 'r', encoding='utf-8')
 ##es_file = open('es_ngram.txt', 'r', encoding='utf-8')
@@ -42,10 +43,12 @@ for lang in ('nl', 'bg', 'es', 'hu', 'ru', 'de'): # испанский, венг
     print(lang, len(wiki_texts[lang]))
     
 def lang_check(text, language):
-    lang = language.readlines()
+    lang = language.read()
+    lang = lang.split()
+    print(lang)
     count = 0
-    for line in lang:
-        if line in text:
+    for l in lang:
+        if l.strip() in text:
             count += 1
     percentage = (count/len(lang))*100
     return percentage
@@ -91,7 +94,7 @@ def ngram_detect(key, value):
             return 'Hungarian: ' + str(hu) + '% Correct'    
         else:
             return 'Hungarian: ' + str(hu) + '% Wrong'
-        
+    print (correct)
     
 for key,value in wiki_texts.items():
     print(ngram_detect(key, value))

@@ -38,17 +38,14 @@ def get_texts_for_lang(lang, n=10): # функция для скачивания
 
 wiki_texts = {}
 for lang in ('nl', 'bg', 'es', 'hu', 'ru', 'de'): # испанский, венгерский, нидерландский и болгарский, русский и немецкий 
-    wiki_texts[lang] = get_texts_for_lang(lang, 1)
+    wiki_texts[lang] = get_texts_for_lang(lang, 2)
     print(lang, len(wiki_texts[lang]))
-
-for key,value in wiki_texts.items():
-    ngram_detect(key, value)
     
 def lang_check(text, language):
     lang = language.readlines()
     count = 0
     for line in lang:
-        if l in text:
+        if line in text:
             count += 1
     percentage = (count/len(lang))*100
     return percentage
@@ -73,36 +70,38 @@ def ngram_detect(key, value):
     if nl == max(nl, bg, es, hu):
         if 'nl' == key:
             correct += 1
-            return 'Dutch: ' + nl + '% Correct'
+            return 'Dutch: ' + str(nl) + '% Correct'
         else:
-            return 'Dutch: ' + nl + '% Wrong'
+            return 'Dutch: ' + str(nl) + '% Wrong'
     elif bg == max(nl, bg, es, hu):
         if 'bg' == key:
             correct += 1
-            return 'Bulgarian: ' + bg + '% Correct'
+            return 'Bulgarian: ' + str(bg) + '% Correct'
         else:
-            return 'Bulgarian ' + bg + '% Wrong'        
+            return 'Bulgarian ' + str(bg) + '% Wrong'        
     elif es == max(nl, bg, es, hu):
         if 'es' == key:
             correct += 1
-            return 'Spanish: ' + es + '% Correct'        
+            return 'Spanish: ' + str(es) + '% Correct'        
         else:
-            return 'Spanish: ' + es + '% Wrong'
+            return 'Spanish: ' + str(es) + '% Wrong'
     elif hu == max(nl, bg, es, hu):
         if 'hu' == key:
             correct += 1
-            return 'Hungarian: ' + hu + '% Correct'    
+            return 'Hungarian: ' + str(hu) + '% Correct'    
         else:
-            return 'Hungarian: ' + hu + '% Wrong'
+            return 'Hungarian: ' + str(hu) + '% Wrong'
         
     
-
+for key,value in wiki_texts.items():
+    print(ngram_detect(key, value))
+    
 #def freq_detect(text):
 nl_freq.close()
 es_freq.close()
 bg_freq.close()
 hu_freq.close()
-nl_file.close()
-es_file.close()
-bg_file.close()
-hu_file.close()
+##nl_file.close()
+##es_file.close()
+##bg_file.close()
+##hu_file.close()

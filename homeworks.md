@@ -3,4 +3,4 @@
 
 1.  Навигация
 2.  [ДЗ1](./HW1/HW1_Kartozia_report.md)
-3.  [ДЗ2](./HW2)
+3.  [ДЗ2](./HW2_Kartozia_report.md)

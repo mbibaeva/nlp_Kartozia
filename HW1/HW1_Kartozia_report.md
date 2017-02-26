@@ -1,6 +1,6 @@
 ## Отчёт ДЗ №1, Картозия
 #### В наличии:
-- [Навигация](https://github.com/kartozia/nlp_Kartozia/homeworks.md)
+- [Навигация](https://github.com/kartozia/nlp_Kartozia/master/homeworks.md)
 - [_KeyWords](./HW1_Kartozia_KeyWords.txt) (ключевые слова взяты из RuCorTestSet/TestSet/Lenta/2013_04_02_daughter_.txt)
 - [_WordListTest](./HW1_Kartozia_WordListTest.txt)
 - [таблица к заданию 1.2](./HW1_Kartozia_12.xlsx)

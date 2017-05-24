@@ -1,0 +1,18 @@
+define C [ z | r | ğ | t | ҫ | ş | p | v | y | m ];
+define V [ a | o | u | ɪ ];
+
+read lexc turk.lexc
+define Lexicon;
+
+define SuffAdd e -> a || V C C "^" _ k;
+
+define Cleanup "^" -> 0;
+
+read lexc turk.lexc
+define Lexicon
+
+define Grammar Lexicon           .o.
+               SuffAdd           .o.
+               Cleanup;
+
+regex Grammar;

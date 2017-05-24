@@ -1,0 +1,30 @@
+Multichar_Symbols +V +Suff
+LEXICON Root
+
+Verb ;
+
+LEXICON Verb
+
+yaz Vinf;
+yazɪl Vinf;
+bur Vinf;
+burul Vinf;
+giy Vinf;
+giyin Vinf;
+seviş Vinf;
+görün Vinf;
+görüş Vinf;
+öpüş Vinf;
+doğ Vinf;
+doğur Vinf;
+bat Vinf;
+piş Vinf;
+pişir Vinf;
+geҫ Vinf;
+düş Vinf;
+tut Vinf;
+
+LEXICON Vinf
+
++V+Suff: m^ek	#;
+

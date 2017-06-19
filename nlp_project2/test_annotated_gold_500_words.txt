@@ -1,0 +1,494 @@
+﻿Цветки	цветок	S	m,nom,pl
+дикорастущих	<unknown>	A	gen,pl
+форм	форма	S	f,gen,pl
+обыкновенной	обыкновенный	A	gen,f,sg
+сирени	сирень	S	f,gen,sg
+мелкие	мелкий	A	nom,pl
+собраны	собрать	V	brev,pass,partcp,past,pl
+парными	парный	A	ins,pl
+пучками	пучок	S	m,ins,pl
+по	по	PR	
+цветков	цветок	S	m,gen,pl
+в	в	PR	
+пучке	<unknown>	S	f,loc,sg
+отдельные	отдельный	A	acc,pl
+сорта	сорт	S	m,acc,pl
+по	по	PR	
+цветков	цветок	S	m,gen,pl
+В	в	PR	
+конце	конец	S	m,loc,sg
+осени	осень	S	f,gen,sg
+кора	кора	S	f,nom,sg
+побегов	побег	S	m,gen,pl
+становится	становиться	V	3p,pres,sg
+серой	серый	A	ins,f,sg
+В	в	PR	
+центре	центр	S	m,loc,sg
+цветка	цветок	S	m,gen,sg
+бело-кремовое	<unknown>	A	nom,n,sg
+пятнышко	пятнышко	S	n,nom,sg
+в	в	PR	
+виде	вид	S	m,loc,sg
+звездочки	звездочка	S	f,gen,sg
+При	при	PR	
+уплотнении	уплотнение	S	n,loc,sg
+почвы	почва	S	f,gen,sg
+и	и	CONJ	
+асфальтировании	<unknown>	S	f,gen,sg
+суховершинит	<unknown>	V	3p,pres,sg
+Морозостоек	<unknown>	S	m,nom,sg
+Родина	родина	S	f,nom,sg
+горные	горный	A	nom,pl
+леса	лес	S	m,nom,pl
+Тянь-Шаня	<unknown>	S	m,gen,sg
+Дико	дико	ADV	
+растет	расти	V	3p,pres,sg
+на	на	PR	
+сухих	сухой	A	gen,pl
+склонах	склон	S	m,loc,pl
+в	в	PR	
+умеренно	умеренно	ADV	
+теплых	теплый	A	loc,pl
+районах	район	S	m,loc,pl
+на	на	PR	
+обширной	обширный	A	loc,f,sg
+территории	территория	S	f,loc,sg
+от	от	PR	
+Западной	западный	A	gen,f,sg
+Европы	европа	S	f,gen,sg
+до	до	PR	
+восточной	восточный	A	gen,f,sg
+Азии	азия	S	f,gen,sg
+Полученное	получить	V	pass,nom,partcp,past,sg
+количество	количество	S	n,nom,sg
+саженцев	<unknown>	S	m,gen,pl
+затем	затем	ADV	
+распределяют	распределять	V	3p,pres,pl
+пропорционально	пропорционально	ADV	
+объему	объем	S	m,dat,sg
+работ	работа	S	f,gen,pl
+по	по	PR	
+годам	год	S	m,dat,pl
+перспективного	перспективный	A	gen,ma,sg
+периода	период	S	m,gen,sg
+и	и	CONJ	
+вычисляют	<unknown>	V	3p,pres,pl
+среднегодовую	<unknown>	A	acc,f,sg
+потребность	потребность	S	f,acc,sg
+Дистальнее	<unknown>	A	comp,nom,ma,sg
+места	место	S	n,gen,sg
+сужения	сужение	S	n,gen,sg
+проток	<unknown>	S	f,gen,pl
+не	не	PART	
+визуализируется	<unknown>	V	3p,pres,sg
+ЗАКЛЮЧЕНИЕ	заключение	S	n,nom,sg
+Инфильтративные	<unknown>	A	nom,pl
+изменения	изменение	S	n,nom,pl
+в	в	PR	
+зоне	зона	S	f,loc,sg
+гепатикоэнтероанастомоза	<unknown>	S	m,gen,sg
+в	в	PR	
+воротах	ворота	S	m,loc,pl
+печени	печень	S	f,gen,sg
+во	во	PR	
+внутрибрюшной	<unknown>	A	loc,f,sg
+жировой	жировой	A	ins,f,sg
+клетчатке	<unknown>	S	f,loc,sg
+Золотовалютные	золотовалютный	A	nom,pl
+резервы	резерв	S	m,nom,pl
+увеличились	увеличиться	V	past,pl
+на	на	PR	
+миллиардов	миллиард	S	m,gen,pl
+долларов	доллар	S	m,gen,pl
+и	и	CONJ	
+приближаются	приближаться	V	3p,pres,pl
+к	к	PR	
+отметке	отметка	S	f,loc,sg
+в	в	PR	
+полтриллиона	<unknown>	S	n,loc,sg
+долларов	доллар	S	m,gen,pl
+США	сша	S	m,gen,pl
+точнее	точный	A	comp,nom,ma,sg
+по	по	PR	
+последним	последний	A	dat,pl
+данным	данные	S	m,dat,pl
+чуть-чуть	<unknown>	ADV	
+понижение	понижение	S	n,nom,sg
+произошло	произойти	V	past,n,sg
+в	в	PR	
+связи	связь	S	f,nom/loc,sg
+с	с	PR	
+изменением	изменение	S	n,ins,sg
+курса	курс	S	m,gen,sg
+доллара	доллар	S	m,gen,sg
+Это	это	SPRO	nom,n,sg
+вершина	вершина	S	f,nom,sg
+тесного	тесный	A	gen,n,sg
+и	и	CONJ	
+плодотворного	плодотворный	A	gen,n,sg
+сотрудничества	сотрудничество	S	n,gen,sg
+между	между	PR	
+нашими	наш	APRO	ins,pl
+странами	страна	S	f,ins,pl
+Мы	мы	SPRO	1p,nom,pl
+еще	еще	ADV	
+некоторое	некоторый	APRO	acc,n,sg
+время	время	S	n,acc,sg
+разговариваем	разговаривать	V	1p,pres,pl
+с	с	PR	
+Епископом	<unknown>	S	m,ins,sg
+Лукианом	<unknown>	S	m,ins,sg
+потом	потом	ADVPRO	
+он	он	SPRO	3p,nom,m,sg
+провожает	провожать	V	3p,pres,sg
+меня	я	SPRO	1p,acc,sg
+до	до	PR	
+ворот	ворота	S	m,gen,pl
+Резиденции	резиденция	S	f,gen,sg
+откуда	откуда	ADVPRO	
+навстречу	навстречу	ADV	
+нам	мы	SPRO	1p,dat,pl
+идет	идти	V	3p,pres,sg
+многочисленный	многочисленный	A	nom,ma,sg
+и	и	CONJ	
+многоязычный	<unknown>	A	nom,ma,sg
+поток	поток	S	m,nom,sg
+людей	человек	S	m,gen,pl
+желающих	желать	V	act,gen,partcp,pres,pl
+осмотреть	осмотреть	V	inf
+экспонаты	экспонат	S	m,acc,pl
+Православного	православный	A	gen,ma,sg
+Музея	музей	S	m,gen,sg
+и	и	CONJ	
+посетить	посетить	V	inf
+Кафедральный	<unknown>	A	nom,ma,sg
+Собор	собор	S	m,nom,sg
+Многотысячный	многотысячный	A	nom,ma,sg
+коллектив	коллектив	S	m,nom,sg
+Газпрома	газпром	S	m,gen,sg
+денно	денно	ADV	
+и	и	CONJ	
+нощно	нощно	ADV	
+трудился	трудиться	V	past,m,sg
+над	над	PR	
+поставленной	поставить	V	pass,ins,partcp,past,sg
+задачей	задача	S	f,ins,sg
+Там	там	ADVPRO	
+оставалось	оставаться	V	past,n,sg
+еще	еще	ADV	
+сербских	сербский	A	gen,pl
+сел	село	S	n,gen,pl
+Мы	мы	SPRO	1p,nom,pl
+шли	идти	V	past,pl
+в	в	PR	
+бой	бой	S	m,acc,sg
+вместе	вместе	ADV	
+и	и	CONJ	
+готовы	готовый	A	nom,pl
+были	быть	V	past,pl
+пролить	пролить	V	inf
+кровь	кровь	S	f,acc,sg
+друг	друг	SPRO	nom,sg
+за	за	PR	
+друга	друг	SPRO	acc,sg
+Какие	какой	APRO	nom,pl
+впечатления	впечатление	S	n,nom,pl
+у	у	PR	
+вас	вы	SPRO	2p,gen,pl
+остались	остаться	V	past,pl
+от	от	PR	
+Москвы	москва	S	f,gen,sg
+в	в	PR	
+году	год	S	m,nom/loc,sg
+По	по	PR	
+удивительному	удивительный	A	dat,n,sg
+стечению	стечение	S	n,dat,sg
+обстоятельств	обстоятельство	S	n,gen,pl
+ваш	ваш	APRO	nom,m,sg
+олимпийский	олимпийский	A	nom,ma,sg
+триумф	триумф	S	m,nom,sg
+идеально	идеально	ADV	
+совпал	совпасть	V	past,m,sg
+по	по	PR	
+времени	время	S	n,dat,sg
+с	с	PR	
+внедрением	внедрение	S	n,ins,sg
+современных	современный	A	gen,pl
+поролоновых	<unknown>	A	gen,pl
+матов	мат	S	m,gen,pl
+Все	весь	APRO	nom,n,sg
+поселение	поселение	S	n,nom,sg
+можно	можно	ADV	
+обойти	обойти	V	inf
+неторопливым	неторопливый	A	ins,ma,sg
+шагом	шаг	S	m,ins,sg
+за	за	PR	
+минут	минута	S	f,gen,pl
+Стабильное	стабильный	A	nom,n,sg
+взаимодействие	взаимодействие	S	n,nom,sg
+в	в	PR	
+нефтегазовом	<unknown>	A	loc,ma,sg
+секторе	сектор	S	m,loc,sg
+является	являться	V	3p,pres,sg
+общим	общий	A	ins,ma,sg
+вкладом	вклад	S	m,ins,sg
+России	россия	S	f,gen,sg
+и	и	CONJ	
+Венгрии	венгрия	S	f,gen,sg
+в	в	PR	
+обеспечение	обеспечение	S	n,acc,sg
+энергобезопасности	<unknown>	S	f,gen,sg
+Европы	европа	S	f,gen,sg
+При	при	PR	
+этом	это	SPRO	loc,n,sg
+работа	работа	S	f,nom,sg
+над	над	PR	
+реализаций	реализация	S	f,gen,pl
+проектов	проект	S	m,gen,pl
+жёстко	жёстко	ADV	
+увязывалась	<unknown>	V	past,f,sg
+с	с	PR	
+достижением	достижение	S	n,ins,sg
+на	на	PR	
+каждом	каждый	APRO	loc,m,sg
+этапе	этап	S	m,loc,sg
+целевых	целевой	A	gen,pl
+показателей	показатель	S	m,gen,pl
+Наверняка	наверняка	ADV	
+техника	техника	S	f,nom,sg
+была	быть	V	past,f,sg
+бы	бы	PART	
+уже	уже	ADV	
+не	не	PART	
+та	тот	APRO	nom,f,sg
+Я	я	SPRO	1p,nom,sg
+имею	иметь	V	1p,pres,sg
+в	в	PR	
+виду	вид	S	m,nom/loc,sg
+наше	наш	APRO	acc,n,sg
+сотрудничество	сотрудничество	S	n,acc,sg
+в	в	PR	
+сфере	сфера	S	f,loc,sg
+энергетики	энергетика	S	f,gen,sg
+первый	первый	ANUM	acc,m,sg
+блок	блок	S	m,acc,sg
+Сангтудинской	<unknown>	A	gen,f,sg
+ГЭС	гэс	S	f,gen,sg
+станции	станция	S	f,gen,sg
+запущен	запустить	V	brev,pass,partcp,past,sg
+в	в	PR	
+январе	январь	S	m,loc,sg
+В	в	PR	
+рамках	рамка	S	f,loc,pl
+национального	национальный	A	gen,ma,sg
+проекта	проект	S	m,gen,sg
+миллионов	миллион	S	m,gen,pl
+человек	человек	S	m,gen,pl
+смогли	смочь	V	past,pl
+пройти	пройти	V	inf
+диспансеризацию	<unknown>	S	f,acc,sg
+а	а	CONJ	
+миллионам	миллион	S	m,dat,pl
+были	быть	V	past,pl
+сделаны	сделать	V	brev,pass,partcp,past,pl
+прививки	прививка	S	f,nom,pl
+Оба	оба	ANUM	nom,m,
+работают	работать	V	3p,pres,pl
+на	на	PR	
+влиятельную	влиятельный	A	acc,f,sg
+и	и	CONJ	
+известную	известный	A	acc,f,sg
+адвокатскую	адвокатский	A	acc,f,sg
+контору	контора	S	f,acc,sg
+None
+None
+None
+и	и	CONJ	
+успешно	успешно	ADV	
+продвигаются	продвигаться	V	3p,pres,pl
+по	по	PR	
+служебной	служебный	A	dat,f,sg
+лестнице	лестница	S	f,dat,sg
+Некоторые	некоторый	APRO	nom,pl
+люди	человек	S	m,nom,pl
+испытывают	испытывать	V	3p,pres,pl
+панические	<unknown>	A	nom,pl
+атаки	атака	S	f,nom,pl
+которые	который	APRO	nom,pl
+характеризуются	характеризоваться	V	3p,pres,pl
+чрезвычайно	чрезвычайно	ADV	
+сильным	сильный	A	ins,n,sg
+чувством	чувство	S	n,ins,sg
+страха	страх	S	m,gen,sg
+Они	они	SPRO	3p,nom,pl
+отнюдь	отнюдь	ADV	
+не	не	PART	
+редки	редкий	A	nom,pl
+К	к	PR	
+третьей	третьей	ANUM	loc,f,sg
+неделе	неделя	S	f,loc,sg
+пациенты	пациент	S	m,nom,pl
+показывали	показывать	V	past,pl
+заметное	заметный	A	acc,n,sg
+улучшение	улучшение	S	n,acc,sg
+настроения	настроение	S	n,gen,sg
+в	в	PR	
+отличие	отличие	S	n,acc,sg
+от	от	PR	
+принимавших	принимать	V	act,gen,partcp,past,pl
+плацебо	плацебо	S	n,acc,sg
+Высокий	высокий	A	nom,ma,sg
+уровень	уровень	S	m,nom,sg
+эстрогена	<unknown>	S	f,nom,sg
+и	и	CONJ	
+низкий	низкий	A	nom,ma,sg
+прогестерона	<unknown>	S	m,gen,sg
+могут	мочь	V	3p,pres,pl
+привести	привести	V	inf
+к	к	PR	
+предменструальному	<unknown>	A	dat,ma,sg
+синдрому	<unknown>	A	dat,ma,sg
+ПМС	<unknown>	S	m,gen,sg
+с	с	PR	
+цикличной	<unknown>	A	ins,f,sg
+депрессией	депрессия	S	f,ins,sg
+и	и	CONJ	
+беспокойством	беспокойство	S	n,ins,sg
+Иногда	иногда	ADV	
+колебания	колебание	S	n,nom,pl
+настроения	настроение	S	n,gen,sg
+и	и	CONJ	
+депрессия	депрессия	S	f,nom,sg
+могут	мочь	V	3p,pres,pl
+быть	быть	V	inf
+результатом	результат	S	m,ins,sg
+слишком	слишком	ADV	
+большого	большой	A	gen,ma,sg
+стресса	стресс	S	m,gen,sg
+и	и	CONJ	
+истощения	истощение	S	n,gen,sg
+надпочечников	<unknown>	S	m,gen,pl
+Первое	первый	ANUM	nom,n,sg
+описание	описание	S	n,nom,sg
+этого	этот	APRO	gen,m,sg
+члена	член	S	m,gen,sg
+семейства	семейство	S	n,gen,sg
+перечных	<unknown>	A	gen,pl
+появилось	появиться	V	past,n,sg
+в	в	PR	
+западных	западный	A	loc,pl
+странах	страна	S	f,loc,pl
+после	после	PR	
+знаменитых	знаменитый	A	gen,pl
+рейдов	рейд	S	m,gen,pl
+капитана	капитан	S	m,gen,sg
+Джеймса	джеймс	S	m,gen,sg
+Кука	кук	S	m,gen,sg
+в	в	PR	
+Южные	южный	A	acc,pl
+моря	море	S	n,acc,pl
+Согласно	согласно	PR	
+данным	данные	S	m,dat,pl
+Национального	национальный	A	gen,ma,sg
+аутистического	<unknown>	A	gen,ma,sg
+общества	общество	S	n,gen,sg
+частота	частота	S	f,nom,sg
+аутизма	аутизм	S	m,gen,sg
+сейчас	сейчас	ADVPRO	
+может	мочь	V	3p,pres,sg
+превышать	превышать	V	inf
+случай	случай	S	m,acc,sg
+на	на	PR	
+каждые	каждый	APRO	acc,pl
+детей	дитя	S	n,gen,pl
+Конечная	конечный	A	nom,f,sg
+цель	цель	S	f,nom,sg
+математики	математика	S	f,gen,sg
+вообще	вообще	ADV	
+избавиться	избавиться	V	inf
+от	от	PR	
+необходимости	необходимость	S	f,gen,sg
+о	о	PR	
+чем-либо	<unknown>	S	m,loc,sg
+думать	думать	V	inf
+В	в	PR	
+том-то	<unknown>	S	m,loc,sg
+и	и	CONJ	
+дело	дело	S	n,nom,sg
+что	что	CONJ	
+кроме	кроме	PR	
+действительных	действительный	A	gen,pl
+чисел	число	S	n,gen,pl
+достаточно	достаточно	ADV	
+изобрести	изобрести	V	inf
+только	только	PART	
+одно	один	ANUM	acc,n,
+число	число	S	n,acc,sg
+квадратный	квадратный	A	acc,ma,sg
+корень	корень	S	m,acc,sg
+из	из	PR	
+после	после	PR	
+этого	это	SPRO	gen,n,sg
+можно	можно	ADV	
+решить	решить	V	inf
+любое	любой	APRO	acc,n,sg
+алгебраическое	<unknown>	A	acc,n,sg
+уравнение	уравнение	S	n,acc,sg
+Возможные	возможный	A	nom,pl
+состояния	состояние	S	n,nom,pl
+электронов	электрон	S	m,gen,pl
+определяются	определяться	V	3p,pres,pl
+различными	различный	A	ins,pl
+энергетическими	энергетический	A	ins,pl
+подуровнями	<unknown>	S	f,ins,pl
+которые	который	APRO	nom,pl
+носят	носить	V	3p,pres,pl
+название	название	S	n,acc,sg
+орбиталей	<unknown>	S	m,gen,pl
+Указанный	указать	V	pass,nom,partcp,past,sg
+выше	выхой	A	comp,nom,ma,sg
+вызов	вызов	S	m,nom,sg
+функции	функция	S	f,gen,sg
+вернет	вернуть	V	3p,fut,sg
+все	весь	APRO	acc,pl
+объекты	объект	S	m,acc,pl
+из	из	PR	
+агента	агент	S	m,gen,sg
+напущенного	<unknown>	V	pass,gen,partcp,past,sg
+на	на	PR	
+локальном	локальный	A	loc,ma,sg
+хосте	хост	S	m,loc,sg
+Эта	этот	APRO	nom,f,sg
+группа	группа	S	f,nom,sg
+включает	включать	V	3p,pres,sg
+щелочные	<unknown>	A	acc,pl
+металлы	металл	S	m,acc,pl
+натрий	натрий	S	m,nom,sg
+и	и	CONJ	
+калий	калий	S	m,nom,sg
+None
+щелочноземельные	<unknown>	A	nom,pl
+металлы	металл	S	m,nom,pl
+магний	<unknown>	S	n,gen,pl
+и	и	CONJ	
+кальций	кальций	S	m,nom,sg
+Это	это	SPRO	nom,n,sg
+сразу	сразу	ADV	
+говорит	говорить	V	3p,pres,sg
+нам	мы	SPRO	1p,dat,pl
+что	что	CONJ	
+такое	такой	APRO	nom,n,sg
+момент	момент	S	m,acc,sg
+количественно	количественно	ADV	
+Собачка	собачка	S	f,nom,sg
+нужна	нужный	A	nom,f,sg
+к	к	PR	
+празднику	праздник	S	m,dat,sg
+Он	он	SPRO	3p,nom,m,sg
+полагал	полагать	V	past,m,sg
+что	что	CONJ	
+римлян	римлянин	S	m,gen,pl
+сгубило	сгубить	V	past,n,sg
+избыточное	избыточный	A	nom,n,sg
+честолюбие	честолюбие	S	n,nom,sg
+получают	получать	V	3p,pres,pl

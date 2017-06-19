@@ -278,4 +278,3 @@ for line in text:
     tags = change_tags(tag[3], tag[2], tag[0], tag[1])
     outfile.write(str(tags) + '\n')
 outfile.close()
-

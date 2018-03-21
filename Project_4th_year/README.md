@@ -7,7 +7,7 @@
 * [Уэтова Екатерина](github.com/euetova)
 
 ## Задача
-Расширить список оценочных слов 
+Расширить изначальный [список оценочных слов](https://github.com/mbibaeva/nlp_Kartozia/blob/master/Project_4th_year/seed.txt)
 ## Ход работы
 
 - [x] Разметка текстов
@@ -16,4 +16,4 @@
 [3](https://github.com/mbibaeva/nlp_Kartozia/blob/master/Project_4th_year/annotation_Uetova_27221%2C%2029097%2C%2023065%2C%2038116.txt),
 [4]
 
--[x] Извлечены тексты плюс оценки по аспектам
+- [x] Извлечены тексты плюс оценки по аспектам

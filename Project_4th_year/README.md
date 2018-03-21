@@ -18,4 +18,4 @@
 
 - [x] Извлечены тексты плюс оценки по аспектам
 
-- [o] Сравнить с [десятитысячным списком](https://github.com/mbibaeva/nlp_Kartozia/blob/master/Project_4th_year/rusentilex.txt)
+- [] Сравнить с [десятитысячным списком](https://github.com/mbibaeva/nlp_Kartozia/blob/master/Project_4th_year/rusentilex.txt)

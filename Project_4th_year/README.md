@@ -20,6 +20,16 @@
 
 - [x] Предобработка текстов: лемматизация, удалены стоп-слова
 
+- [x] [Рассчитаны tf-idf](https://github.com/mbibaeva/nlp_Kartozia/blob/master/Project_4th_year/sentiment_dic.ipynb) [результат]
+
+- [x] Обучена [word2vec модель](https://github.com/mbibaeva/nlp_Kartozia/blob/master/Project_4th_year/Sentiment_Analysis.ipynb)
+
+- [ ] Представить каждое слово в виде вектора, и обучить SVM на векторах слов, закодированных числами частях речи (слова, двух слов до и двух слов после), и векторах двух слов до и двух слов после, и целевой переменной (0,1,2: neg, neutral, pos)
+
+- [ ] Обучить w2v, найти ближайшие слова к словам из seed.
+
+- [ ] Topic modeling
+
 - [ ] Сравнить с [десятитысячным списком](https://github.com/mbibaeva/nlp_Kartozia/blob/master/Project_4th_year/rusentilex.txt)
 
 Выбираем тексты с самыми высокими оценками по аспекту food и отдельно с самыми низкими, и потом делаем по ним частотный список и ура

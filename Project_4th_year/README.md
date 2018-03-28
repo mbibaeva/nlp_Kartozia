@@ -32,7 +32,7 @@
 
 - [ ] Представить каждое слово в виде вектора, и обучить SVM на векторах слов, закодированных числами частях речи (слова, двух слов до и двух слов после), и векторах двух слов до и двух слов после, и целевой переменной (0,1,2: neg, neutral, pos)
 
-- [х] С помощью Topic modeling и модели word2vec был расшрен список seed. [Полученный список](https://github.com/mbibaeva/nlp_Kartozia/blob/master/Project_4th_year/sentiment_list.txt)
+- [x] С помощью Topic modeling и модели word2vec был расшрен список seed. [Полученный список](https://github.com/mbibaeva/nlp_Kartozia/blob/master/Project_4th_year/sentiment_list.txt)
 
 - [ ] Сравнить с [десятитысячным списком](https://github.com/mbibaeva/nlp_Kartozia/blob/master/Project_4th_year/rusentilex.txt)
 

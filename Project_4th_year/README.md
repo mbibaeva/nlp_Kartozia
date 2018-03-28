@@ -32,7 +32,7 @@
 
 - [x] С помощью Topic modeling и модели word2vec был расширен список seed. [Полученный список](https://github.com/mbibaeva/nlp_Kartozia/blob/master/Project_4th_year/sentiment_list.txt) 
 
-- [x] Сравнить с [десятитысячным списком](https://github.com/mbibaeva/nlp_Kartozia/blob/master/Project_4th_year/rusentilex.txt)
+- [x] [Сравнить](https://github.com/mbibaeva/nlp_Kartozia/blob/master/Project_4th_year/intersection.ipynb) с [десятитысячным списком](https://github.com/mbibaeva/nlp_Kartozia/blob/master/Project_4th_year/rusentilex.txt)
 
 
 **Результат:** Всего найдено 197 слов <br>

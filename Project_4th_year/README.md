@@ -26,7 +26,7 @@
 
 - [x] Предобработка текстов: нормализация, удаление стоп-слов
 
-- [x] На нормализованных текстах была обучена word2vec модель. [код](https://github.com/mbibaeva/nlp_Kartozia/blob/master/Project_4th_year/Sentiment_Analysis.ipynb) [сама модель](https://drive.google.com/file/d/1Ud-cd3TnEaCCsxKk0WWAeMZhPD3Y28Tl/view?usp=sharing)
+- [x] На нормализованных текстах была обучена word2vec модель. ([код](https://github.com/mbibaeva/nlp_Kartozia/blob/master/Project_4th_year/Sentiment_Analysis.ipynb)) [модель](https://drive.google.com/file/d/1Ud-cd3TnEaCCsxKk0WWAeMZhPD3Y28Tl/view?usp=sharing)
 
 - [x] С помощью [Topic modeling и модели word2vec был расширен](https://github.com/mbibaeva/nlp_Kartozia/blob/master/Project_4th_year/sentiment_words_search.ipynb) список seed. [Полученный список](https://github.com/mbibaeva/nlp_Kartozia/blob/master/Project_4th_year/sentiment_list.txt) 
 

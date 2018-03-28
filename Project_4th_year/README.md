@@ -22,7 +22,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 | ... | ... | ... | ... | ... |
 
-Лемматизировали текст review и сохранили ([код](https://github.com/mbibaeva/nlp_Kartozia/blob/master/Project_4th_year/sentiment_dic.ipynb)) [dataframe](https://drive.google.com/open?id=1-BmRQMWeyUikJmrFgeCmSOyuqQxBWuB8)
+- [x] Лемматизировали текст review и сохранили ([код](https://github.com/mbibaeva/nlp_Kartozia/blob/master/Project_4th_year/sentiment_dic.ipynb)) [dataframe](https://drive.google.com/open?id=1-BmRQMWeyUikJmrFgeCmSOyuqQxBWuB8)
 
 - [x] Предобработка текстов: нормализация, удаление стоп-слов
 

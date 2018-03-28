@@ -16,13 +16,13 @@
 [3](https://github.com/mbibaeva/nlp_Kartozia/blob/master/Project_4th_year/annotation_Uetova_27221%2C%2029097%2C%2023065%2C%2038116.txt),
 [4](https://github.com/mbibaeva/nlp_Kartozia/blob/master/Project_4th_year/14418.txt)
 
-- [x] Извлечены тексты плюс оценки по аспектам. оздали из извлечённых данных dataframe
+- [x] Извлечены тексты плюс оценки по аспектам. Создали из извлечённых данных dataframe
 
 | id | review | Food | interior | service |
 |:---:|:---:|:---:|:---:|:---:|
 | ... | ... | ... | ... | ... |
 
-Лемматизировали текст review и сохранили [dataframe]()
+Лемматизировали текст review и сохранили [dataframe](https://drive.google.com/open?id=1-BmRQMWeyUikJmrFgeCmSOyuqQxBWuB8)
 
 - [x] Предобработка текстов: нормализация, удаление стоп-слов
 
@@ -30,9 +30,10 @@
 
 - [x] На нормализованных текстах была обучена [word2vec модель](https://github.com/mbibaeva/nlp_Kartozia/blob/master/Project_4th_year/Sentiment_Analysis.ipynb)
 
-- [x] С помощью Topic modeling и модели word2vec был расшрен список seed. [Полученный список](https://github.com/mbibaeva/nlp_Kartozia/blob/master/Project_4th_year/sentiment_list.txt)
+- [x] С помощью Topic modeling и модели word2vec был расширен список seed. [Полученный список](https://github.com/mbibaeva/nlp_Kartozia/blob/master/Project_4th_year/sentiment_list.txt) 
 
 - [x] Сравнить с [десятитысячным списком](https://github.com/mbibaeva/nlp_Kartozia/blob/master/Project_4th_year/rusentilex.txt)
+
 
 **Результат:** Всего найдено 197 слов <br>
 Пересечение со словарем оценочных выражений: 57 слов, 30.0 % списка

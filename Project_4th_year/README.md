@@ -30,12 +30,12 @@
 
 - [x] С помощью [Topic modeling и модели word2vec был расширен](https://github.com/mbibaeva/nlp_Kartozia/blob/master/Project_4th_year/sentiment_words_search.ipynb) список seed. [Полученный список](https://github.com/mbibaeva/nlp_Kartozia/blob/master/Project_4th_year/sentiment_list.txt) 
 
-- [x] [Сравнить](https://github.com/mbibaeva/nlp_Kartozia/blob/master/Project_4th_year/intersection.ipynb) с [десятитысячным списком](https://github.com/mbibaeva/nlp_Kartozia/blob/master/Project_4th_year/rusentilex.txt)
+- [x] [Сравнили](https://github.com/mbibaeva/nlp_Kartozia/blob/master/Project_4th_year/intersection.ipynb) с [десятитысячным списком](https://github.com/mbibaeva/nlp_Kartozia/blob/master/Project_4th_year/rusentilex.txt)
 
 
 **Результат:** Всего найдено [168 слов](https://github.com/mbibaeva/nlp_Kartozia/blob/master/Project_4th_year/unique_sentiment.txt) <br>
 Пересечение со словарем оценочных выражений: 69 слов, 40.0 % списка <br>
-Из 99 слов, которых нет в словаре, 34 мы отнесли к оценочным(34.3 %). 
+Из 99 слов, которых нет в словаре, 34 мы отнесли к оценочным(34.3 %). [Таблица](https://github.com/mbibaeva/nlp_Kartozia/blob/master/Project_4th_year/sentiment_new.csv), где класс 1 означает, что слово можно считать оценочным, а класс 0, что нельзя.
 
 
 

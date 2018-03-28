@@ -33,7 +33,7 @@
 - [x] [Сравнить](https://github.com/mbibaeva/nlp_Kartozia/blob/master/Project_4th_year/intersection.ipynb) с [десятитысячным списком](https://github.com/mbibaeva/nlp_Kartozia/blob/master/Project_4th_year/rusentilex.txt)
 
 
-**Результат:** Всего найдено 197 слов <br>
+**Результат:** Всего найдено [168 слов](https://github.com/mbibaeva/nlp_Kartozia/blob/master/Project_4th_year/unique_sentiment.txt) <br>
 Пересечение со словарем оценочных выражений: 57 слов, 30.0 % списка
 
 
